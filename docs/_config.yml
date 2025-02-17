@@ -1,0 +1,9 @@
+title: Matthew Burns
+baseurl: ""
+url: ""
+github_username:  msburns24
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
