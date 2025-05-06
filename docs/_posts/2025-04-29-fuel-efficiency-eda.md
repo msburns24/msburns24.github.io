@@ -574,7 +574,7 @@ mpg[['mpg']].describe().T
 
 
     
-![png](2025-04-29-fuel-efficiency-eda_files/2025-04-29-fuel-efficiency-eda_38_0.png)
+![png](/assets/img/2025/04/2025-04-29-fuel-efficiency-eda_38_0.png)
     
 
 
@@ -641,7 +641,7 @@ mpg[[column]].describe().T
 
 
     
-![png](2025-04-29-fuel-efficiency-eda_files/2025-04-29-fuel-efficiency-eda_41_0.png)
+![png](/assets/img/2025/04/2025-04-29-fuel-efficiency-eda_41_0.png)
     
 
 
@@ -711,7 +711,7 @@ mpg[[column]].describe().T
 
 
     
-![png](2025-04-29-fuel-efficiency-eda_files/2025-04-29-fuel-efficiency-eda_44_0.png)
+![png](/assets/img/2025/04/2025-04-29-fuel-efficiency-eda_44_0.png)
     
 
 
@@ -779,7 +779,7 @@ mpg[[column]].describe().T
 
 
     
-![png](2025-04-29-fuel-efficiency-eda_files/2025-04-29-fuel-efficiency-eda_47_0.png)
+![png](/assets/img/2025/04/2025-04-29-fuel-efficiency-eda_47_0.png)
     
 
 
@@ -847,7 +847,7 @@ plt.show()
 
 
     
-![png](2025-04-29-fuel-efficiency-eda_files/2025-04-29-fuel-efficiency-eda_50_0.png)
+![png](/assets/img/2025/04/2025-04-29-fuel-efficiency-eda_50_0.png)
     
 
 
@@ -871,7 +871,7 @@ plt.show()
 
 
     
-![png](2025-04-29-fuel-efficiency-eda_files/2025-04-29-fuel-efficiency-eda_53_0.png)
+![png](/assets/img/2025/04/2025-04-29-fuel-efficiency-eda_53_0.png)
     
 
 
@@ -896,6 +896,6 @@ plt.show()
 
 
     
-![png](2025-04-29-fuel-efficiency-eda_files/2025-04-29-fuel-efficiency-eda_56_0.png)
+![png](/assets/img/2025/04/2025-04-29-fuel-efficiency-eda_56_0.png)
     
 
